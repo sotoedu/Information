@@ -1,6 +1,13 @@
 # Information
 information
 
+ git init
+ git add .
+ git commit -m "first"
+ git config user.email 
+ git config user.name
+ git remote add origin https://github.com/sotoedu/mh_z19Co2.git
+ git push -u origin master
 
 1  #라즈베리파이 한글 폰트
 
