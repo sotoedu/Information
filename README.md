@@ -1,6 +1,15 @@
 # Information
 information
 
+Utils
+
+1 putty install
+
+https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+
+
+
+
  git init
 
  git add .
