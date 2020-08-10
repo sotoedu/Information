@@ -5,13 +5,13 @@ information
     $ cat /proc/cpuinfo
 
     라즈베리파이 3
-    Raspberry Pi 3 B+	(ARM)Quad Core 1.2GHz Broadcom BCM2837 64bit CPU
+    Raspberry Pi 3 B+	(ARM)Quad Core 1.2GHz Cortex-A57 Broadcom BCM2837 64bit CPU
 
 
 
     라즈베리파이 4
     Os: Linux version 4.19.118-v7l+ (dom@buildbot) (gcc version 4.9.3 (crosstool-NG crosstool-ng-1.22.0-88-g8460611)) #1311 SMP Mon Apr 27 14:26:42 BST 2020
-    model name: ARMv7 Processor rev 3 (v7l)
+    model name: ARMv7 Processor rev 3 (v7l) Cortex-A72 1.5GZ
     Hardware: BCM2835
     Revision: c03112
     Model: Raspberry Pi 4 Model B Rev 1.2
