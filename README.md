@@ -6,14 +6,16 @@ information
     $ cat /proc/device-tree/model
 
     라즈베리파이 3
-    OS: Linux version 4.14.98-v7+ (dom@dom-XPS-13-9370) (gcc version 4.9.3 (crosstool-NG crosstool-ng-1.22.0-88-g8460611)) #1200 SMP Tue Feb 12 20:27:48 GMT 2019
+    OS: Linux version 4.14.98-v7+ (dom@dom-XPS-13-9370) (gcc version 4.9.3 (crosstool-NG crosstool-ng-1.22.0-88-g8460611)) 
+    #1200 SMP Tue Feb 12 20:27:48 GMT 2019
     model name      : ARMv7 Processor rev 4 (v7l) Raspberry Pi 3 B+	(ARM)Quad Core 1.2GHz Cortex-A57 Broadcom BCM2837 64bit CPU
     Hardware        : BCM2835
     Revision        : a52082
     Model: Raspberry Pi 3 Model B Rev 1.2
 
     라즈베리파이 4
-    Os: Linux version 4.19.118-v7l+ (dom@buildbot) (gcc version 4.9.3 (crosstool-NG crosstool-ng-1.22.0-88-g8460611)) #1311 SMP Mon Apr 27 14:26:42 BST 2020
+    Os: Linux version 4.19.118-v7l+ (dom@buildbot) (gcc version 4.9.3 (crosstool-NG crosstool-ng-1.22.0-88-g8460611)) 
+    #1311 SMP Mon Apr 27 14:26:42 BST 2020
     model name: ARMv7 Processor rev 3 (v7l) Cortex-A72 1.5GZ
     Hardware: BCM2835
     Revision: c03112 (4GB) /a03111 (1GB) / b03111 (2GB) / d03114 (8GB)
