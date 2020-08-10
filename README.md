@@ -8,7 +8,7 @@ information
     라즈베리파이 3
     OS: Linux version 4.14.98-v7+ (dom@dom-XPS-13-9370) (gcc version 4.9.3 (crosstool-NG crosstool-ng-1.22.0-88-g8460611)) 
     #1200 SMP Tue Feb 12 20:27:48 GMT 2019
-    model name      : ARMv7 Processor rev 4 (v7l) Raspberry Pi 3 B+	(ARM)Quad Core 1.2GHz Cortex-A57 Broadcom BCM2837 64bit CPU
+    model name      : ARMv7 Processor rev 4 (v7l) Raspberry Pi 3 B+	(ARM)Quad Core 1.4GHz Cortex-A57 Broadcom BCM2837 64bit CPU
     Hardware        : BCM2835
     Revision        : a52082
     Model: Raspberry Pi 3 Model B Rev 1.2
