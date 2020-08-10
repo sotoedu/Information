@@ -21,9 +21,6 @@ information
     Revision: c03112 (4GB) /a03111 (1GB) / b03111 (2GB) / d03114 (8GB)
     Model: Raspberry Pi 4 Model B Rev 1.2
     
-
-
-
     라즈베리파이 성능 비교 분석
     $ sudo apt install sysbench
 
@@ -65,6 +62,39 @@ information
 
     싱글 쓰레드
     sysbench --test=cpu --cpu-max-prime=10000 --num-threads=1 run
+    
+    
+    멀티
+    3
+    Threads fairness:
+    events (avg/stddev):           2500.0000/9.35
+    execution time (avg/stddev):   34.9161/0.01
+
+    
+    4
+    Threads fairness:
+    events (avg/stddev):           2500.0000/92.97
+    execution time (avg/stddev):   23.7309/0.00
+    
+    싱글
+    3
+    Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   139.6026/0.00
+    
+    4
+    Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   92.7026/0.00
+
+    
+
+    
+    
+    
+
+    
+    
 
 
 
