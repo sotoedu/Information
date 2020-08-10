@@ -1,45 +1,45 @@
 # Information
 information
 
-$ cat /proc/version
-$ cat /proc/cpuinfo
+    $ cat /proc/version
+    $ cat /proc/cpuinfo
 
-라즈베리파이 3
-Raspberry Pi 3 B+	(ARM)Quad Core 1.2GHz Broadcom BCM2837 64bit CPU
-
-
-
-라즈베리파이 4
-Os: Linux version 4.19.118-v7l+ (dom@buildbot) (gcc version 4.9.3 (crosstool-NG crosstool-ng-1.22.0-88-g8460611)) #1311 SMP Mon Apr 27 14:26:42 BST 2020
-model name: ARMv7 Processor rev 3 (v7l)
-Hardware: BCM2835
-Revision: c03112
-Model: Raspberry Pi 4 Model B Rev 1.2
+    라즈베리파이 3
+    Raspberry Pi 3 B+	(ARM)Quad Core 1.2GHz Broadcom BCM2837 64bit CPU
 
 
 
-라즈베리파이 성능 비교 분석
-$ sudo apt install sysbench
-
-$ sysbench --test=cpu run
-
-
-
-
-라즈베리파이 4
-
-Threads fairness:
-    events (avg/stddev):           10000.0000/0.00
-    execution time (avg/stddev):   92.7153/0.00
+    라즈베리파이 4
+    Os: Linux version 4.19.118-v7l+ (dom@buildbot) (gcc version 4.9.3 (crosstool-NG crosstool-ng-1.22.0-88-g8460611)) #1311 SMP Mon Apr 27 14:26:42 BST 2020
+    model name: ARMv7 Processor rev 3 (v7l)
+    Hardware: BCM2835
+    Revision: c03112
+    Model: Raspberry Pi 4 Model B Rev 1.2
 
 
 
-$ sysbench --test=fileio --file-test-mode=seqwr run
+    라즈베리파이 성능 비교 분석
+    $ sudo apt install sysbench
 
-라즈베리파이 4
-Threads fairness:
-    events (avg/stddev):           58208.0000/0.00
-    execution time (avg/stddev):   122.1220/0.00
+    $ sysbench --test=cpu run
+
+
+
+
+    라즈베리파이 4
+
+    Threads fairness:
+        events (avg/stddev):           10000.0000/0.00
+        execution time (avg/stddev):   92.7153/0.00
+
+
+
+    $ sysbench --test=fileio --file-test-mode=seqwr run
+
+    라즈베리파이 4
+    Threads fairness:
+        events (avg/stddev):           58208.0000/0.00
+        execution time (avg/stddev):   122.1220/0.00
 
 
 
