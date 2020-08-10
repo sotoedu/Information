@@ -16,7 +16,7 @@ information
     Os: Linux version 4.19.118-v7l+ (dom@buildbot) (gcc version 4.9.3 (crosstool-NG crosstool-ng-1.22.0-88-g8460611)) #1311 SMP Mon Apr 27 14:26:42 BST 2020
     model name: ARMv7 Processor rev 3 (v7l) Cortex-A72 1.5GZ
     Hardware: BCM2835
-    Revision: c03112
+    Revision: c03112 (4GB) /a03111 (1GB) / b03111 (2GB) / d03114 (8GB)
     Model: Raspberry Pi 4 Model B Rev 1.2
     
 
