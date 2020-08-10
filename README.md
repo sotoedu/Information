@@ -57,6 +57,14 @@ information
     Threads fairness:
         events (avg/stddev):           58208.0000/0.00
         execution time (avg/stddev):   122.1220/0.00
+    
+    
+    
+    멀티 쓰레드
+    sysbench --test=cpu --cpu-max-prime=10000 --num-threads=4 run
+
+    싱글 쓰레드
+    sysbench --test=cpu --cpu-max-prime=10000 --num-threads=1 run
 
 
 
