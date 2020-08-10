@@ -149,4 +149,4 @@ Ok > Reboot
 
 ![tn_scan](https://user-images.githubusercontent.com/17608995/89761088-a9abba00-db28-11ea-86e5-c803496396dd.jpg)
 
-<iframe width="830" height="467" src="https://www.youtube.com/embed/iyrEE4ac2MQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ELCaLhCEJ7A/0.jpg)](https://youtu.be/ELCaLhCEJ7A)
