@@ -145,3 +145,6 @@ locale > ko (korea) EUC-KR
 Timezone > asia >seoul
 Keyboard > 105key > korea , korea
 Ok > Reboot
+
+
+![tn_scan](https://user-images.githubusercontent.com/17608995/89761088-a9abba00-db28-11ea-86e5-c803496396dd.jpg)
