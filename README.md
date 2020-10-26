@@ -1,4 +1,26 @@
 # Information
+samba
+
+    $ sudo apt-get install samba samba-common-bin
+    
+    Samba server and utilities -->  NO
+    
+    $ sudo smbpasswd -a pi
+    
+    $ sudo nano /etc/samba/smb.conf
+    
+    [pi]
+    path = /home/pi
+    writeable=Yes
+    create mast=0777
+    directory mast=0777
+    public=no
+    
+    $ sudo systemctl restart smbd
+    
+    
+    
+    
 information
 
     $ cat /proc/version
