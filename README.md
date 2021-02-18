@@ -1,4 +1,15 @@
 # Information
+
+
+Utils
+
+1 putty install
+
+https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+
+
+
+
 samba
 
     $ sudo apt-get install samba samba-common-bin
@@ -108,26 +119,6 @@ information
     Threads fairness:
     events (avg/stddev):           10000.0000/0.00
     execution time (avg/stddev):   92.7026/0.00
-
-    
-
-    
-    
-    
-
-    
-    
-
-
-
-
-
-Utils
-
-1 putty install
-
-https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
-
 
 
 
