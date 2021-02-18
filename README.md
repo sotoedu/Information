@@ -3,7 +3,12 @@
 
 Utils
 
-1 putty install
+1 Win32DiskImager
+
+http://sourceforge.net/projects/win32diskimager/
+
+
+2 putty install
 
 https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
