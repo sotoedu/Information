@@ -29,8 +29,8 @@ Open console
 sudo apt-get update
 
 
-1. 폰트 설치 sudo apt-get install fonts-nanum
-2. 입력기 설치 sudo apt-get install fcitx-hangul -y
+1. 폰트 설치 sudo apt install fonts-nanum
+2. 입력기 설치 sudo apt install fcitx-hangul -y
 3. 입력기 지정 im-config -n fcitx
 
 Menu > preferances > Pi  configure >  
